@@ -1,0 +1,18 @@
+{
+  "name": "koa.kick-off-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Russell Matney <russell.matney@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "co-body": "^1.0.0",
+    "co-views": "^0.2.0",
+    "ejs": "^1.0.0",
+    "koa": "^0.14.0",
+    "koa-session": "^3.0.0"
+  }
+}
